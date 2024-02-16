@@ -1,0 +1,6 @@
+;;Edad;Ingresos Anuales;Gasto mensual;Puntuación de Crédito;Comportamiento en linea;Compras en el ultimo año;Género;Región;KMeans_Clusters
+;;21;222011;2297;335;8;81;Masculino;Sur;1
+;;26;239229;3420;329;10;27;Masculino;Oeste;1
+;;38;716278;36965;711;9;82;Masculino;Oeste;2
+;;64;697325;9846;855;2;6;Femenino;Sur;0
+;;52;1032569;6607;989;3;2;Femenino;Sur;0
